@@ -19,7 +19,7 @@
     "@google/generative-ai": "^0.11.5",
     "@heroicons/react": "^2.0.18",
     "@langchain/anthropic": "^0.3.5",
-    "@langchain/community": "^0.0.53",
+    "@langchain/community": "^1.0.2",
     "@langchain/core": "^0.3.13",
     "@langchain/google-gauth": "^0.1.0",
     "@langchain/langgraph": "^0.0.12",
