@@ -20,7 +20,7 @@
     "@langchain/core": "^0.3.18",
     "@langchain/google-genai": "^0.1.4",
     "@langchain/langgraph": "^0.2.21",
-    "@langchain/openai": "^0.3.14",
+    "@langchain/openai": "^1.2.3",
     "@tavily/core": "^0.0.2",
     "html-to-text": "^9.0.5",
     "zod": "^3.23.8"
